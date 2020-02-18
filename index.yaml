@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  fate-party:
+  - apiVersion: v1
+    appVersion: v1.2.0
+    created: "2020-02-18T16:29:00.0971501+08:00"
+    description: A Helm chart for fate-party
+    digest: c74848e60ee1e0d4f31b6550857107380aeca7fc9791183b4e998059b060ff13
+    name: fate-party
+    urls:
+    - https://github.com/owlet42/fateChart/fate-party-1.2.0.tgz
+    version: 1.2.0
+generated: "2020-02-18T16:29:00.09415+08:00"
